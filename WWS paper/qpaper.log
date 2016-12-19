@@ -1,0 +1,319 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.10.8)  29 OCT 2016 09:01
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**qpaper.tex
+(./qpaper.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/exam/exam.cls
+Document Class: exam 2011/05/22 Version 2.4 by Philip Hirschhorn
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@extrawidth=\skip43
+\@rightmargin=\skip44
+\@extrahead=\skip45
+\@extrafoot=\skip46
+\run@exhd=\skip47
+\fp@exhd=\skip48
+\run@exft=\skip49
+\fp@exft=\skip50
+\covrun@exhd=\skip51
+\covfp@exhd=\skip52
+\covrun@exft=\skip53
+\covfp@exft=\skip54
+\c@num@coverpages=\count88
+\c@latest@ques=\count89
+\c@ques@end=\count90
+\c@last@object=\count91
+\c@incmp@ques=\count92
+\c@next@ques=\count93
+\c@nextq@page=\count94
+\c@tmp@hlfcntr=\count95
+\c@ifpos@cntr=\count96
+\c@question=\count97
+\c@partno=\count98
+\c@subpart=\count99
+\c@subsubpart=\count100
+\c@choice=\count101
+\c@numpoints=\count102
+\c@numbonuspoints=\count103
+\c@pointsof@thisquestion=\count104
+\c@bonuspointsof@thisquestion=\count105
+\c@numquestions=\count106
+\c@numparts=\count107
+\c@numsubparts=\count108
+\c@numsubsubparts=\count109
+\c@Curr@Page=\count110
+\c@@pagepoints=\count111
+\c@@pagebonuspoints=\count112
+\c@pageof@pagepoints=\count113
+\c@pageof@pagebonuspoints=\count114
+\c@latest@points=\count115
+\c@latest@bonuspoints=\count116
+\pageinfo@commands=\toks14
+\temp@toks=\toks15
+\pagepoint@commands=\toks16
+\point@toks=\toks17
+\c@ques@object=\count117
+\marginpointssep=\skip55
+\rightpointsmargin=\skip56
+\choice@toks=\toks18
+\answerlinelength=\skip57
+\answerskip=\skip58
+\answerclearance=\skip59
+\linefillheight=\skip60
+\linefillthickness=\skip61
+\dottedlinefillheight=\skip62
+\minboxheight=\skip63
+\c@@iterator=\count118
+\@cellwidth=\skip64
+\c@tbl@points=\count119
+\c@tbl@bonuspoints=\count120
+\c@num@cols=\count121
+\saved@totalleftmargin=\dimen103
+\@sollistdepth=\count122
+\FrameRule=\dimen104
+\FrameSep=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2013/04/29 v0.96 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2013/01/28 v1.2l Refers to last page's name (HMM; JPG)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/censor/censor.sty
+Package: censor 2013/06/24 3.21Provides capability for redaction of sensitive i
+nformation
+
+(/usr/share/texlive/texmf-dist/tex/latex/pbox/pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count123
+\calc@Bcount=\count124
+\calc@Adimen=\dimen108
+\calc@Bdimen=\dimen109
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count125
+\calc@Cskip=\skip67
+)
+\pb@xlen=\skip68
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ifnextok/ifnextok.sty
+Package: ifnextok 2011/06/27 v0.3 test next token (UL)
+)
+\censorruledepth=\skip69
+\censorruleheight=\skip70
+\periodrlap=\skip71
+\afterperiodlap=\skip72
+\lletterlap=\skip73
+\rletterlap=\skip74
+\afterspacelap=\skip75
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count126
+\Gm@cntv=\count127
+\c@Gm@tempcnt=\count128
+\Gm@bindingoffset=\dimen110
+\Gm@wd@mp=\dimen111
+\Gm@odd@mp=\dimen112
+\Gm@even@mp=\dimen113
+\Gm@layoutwidth=\dimen114
+\Gm@layoutheight=\dimen115
+\Gm@layouthoffset=\dimen116
+\Gm@layoutvoffset=\dimen117
+\Gm@dimlist=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box26
+\UL@hyphenbox=\box27
+\UL@skip=\skip76
+\UL@hook=\toks21
+\UL@height=\dimen118
+\UL@pe=\count129
+\UL@pixel=\dimen119
+\ULC@box=\box28
+Package: ulem 2012/05/18
+\ULdepth=\dimen120
+)
+(/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
+)
+
+LaTeX Warning: Unused global option(s):
+    [paper=a4].
+
+(./qpaper.aux
+
+LaTeX Warning: Label `Q:zbus' multiply defined.
+
+
+LaTeX Warning: Label `Q:zbus@cref' multiply defined.
+
+
+LaTeX Warning: Label `Q:zbus' multiply defined.
+
+
+LaTeX Warning: Label `Q:zbus@cref' multiply defined.
+
+
+LaTeX Warning: Label `Q:zbus' multiply defined.
+
+
+LaTeX Warning: Label `Q:zbus@cref' multiply defined.
+
+)
+\openout1 = `qpaper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             macros/latex/contrib/pageslts/ 
+(lastpage)             or
+(lastpage)             http://www.ctan.org/tex-archive/ 
+(lastpage)             install/macros/latex/contrib/pageslts.tds.zip
+(lastpage)             ! on input line 35.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(57.81621pt, 467.587pt, 72.26999pt)
+* v-part:(T,H,B)=(50.58878pt, 635.97623pt, 72.26999pt)
+* \paperwidth=597.6732pt
+* \paperheight=758.83499pt
+* \textwidth=467.587pt
+* \textheight=635.97623pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-43.48122pt
+* \headheight=15.0pt
+* \headsep=6.8pt
+* \topskip=11.0pt
+* \footskip=29.0pt
+* \marginparwidth=36.135pt
+* \marginparsep=5.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" >
+Overfull \hbox (417.22075pt too wide) in paragraph at lines 41--44
+ [] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 44.
+[1
+
+] [2]
+This exam contains 6 questions with 0 parts, 0 subparts, and 0 subsubparts.
+
+AED: lastpage setting LastPage
+(./qpaper.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4027 strings out of 493918
+ 66393 string characters out of 6150563
+ 162588 words of memory out of 5000000
+ 7348 multiletter control sequences out of 15000+600000
+ 8584 words of font info for 31 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 28i,9n,26p,272b,355s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on qpaper.pdf (2 pages).
