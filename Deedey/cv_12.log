@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.10.8)  19 DEC 2016 07:02
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013/Debian) (format=xelatex 2016.10.8)  6 FEB 2017 14:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1024,24 +1024,24 @@ My plan is to forget the whole thing and hope for the best.
 . 
 . This font family consists of the following shapes:
 .................................................
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 118.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 119.
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 118.
+(Font)              size <5> substituted on input line 119.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 118.
+(Font)              size <5> substituted on input line 119.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <11> on input line 118.
+(Font)              <11> on input line 119.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.69997> on input line 118.
+(Font)              <7.69997> on input line 119.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5.5> on input line 118.
+(Font)              <5.5> on input line 119.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 118.
+(Font)              size <5> substituted on input line 119.
 
 .................................................
 . fontspec info: "defining-font"
@@ -1094,22 +1094,6 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
-. fonts/lato/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
-. options [Path = fonts/raleway/].
-. 
-. This font family consists of the following shapes:
-.................................................
-.................................................
-. fontspec info: "defining-font"
-. 
 . Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
 . options [Path = fonts/raleway/].
 . 
@@ -1120,6 +1104,14 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 . 
 . Font family 'Lato-Bol(0)' created for font 'Lato-Bol' with options [Path =
 . fonts/lato/].
+. 
+. This font family consists of the following shapes:
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Raleway-Medium(0)' created for font 'Raleway-Medium' with
+. options [Path = fonts/raleway/].
 . 
 . This font family consists of the following shapes:
 .................................................
@@ -1212,9 +1204,9 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
 . This font family consists of the following shapes:
 .................................................
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 242.
+(Font)              <7> on input line 240.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 242.
+(Font)              <5> on input line 240.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1238,14 +1230,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 . 
 . <->"[fonts/raleway/Raleway-ExtraLight]/ICU:script=latn;language=DFLT;+smcp;"
 .................................................
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 308.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 308.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
  (./cv_12.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 308.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 308.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 306.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 306.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1254,12 +1246,12 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 308.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 306.
  ) 
 Here is how much of TeX's memory you used:
  21388 strings out of 493918
  395597 string characters out of 6150563
- 462382 words of memory out of 5000000
+ 461383 words of memory out of 5000000
  24486 multiletter control sequences out of 15000+600000
  6164 words of font info for 63 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
